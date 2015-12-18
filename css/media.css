@@ -1,0 +1,757 @@
+@media only screen and (min-width: 768px) {
+.prompt
+{
+    width: 22.5em;
+ }
+
+.outline-white{
+    outline: 2px solid #ffffff;
+}
+
+.comfort-line{
+	width: 15em;
+}
+
+h3{
+	font-size: 1.43em;
+}
+
+h2{
+    font-size: 2.2em;
+}
+
+.line1{
+	font-size: 1.2em;
+}
+
+.line{
+	font-size: 1.2em;
+}
+
+input[type=text]{
+	padding: 15px 64px;
+}
+
+input[type=submit]{
+	padding: 15px 106px;
+	margin-bottom: 1em;
+}
+
+.topic{
+	font-size: 1.3em;
+}
+
+.hero{
+	padding: 110px 0;
+}
+
+h4{
+    font-size: 1em;
+    margin-top: 1.5em;
+}
+
+.promo-text {
+  font-size: 0.90em;
+  line-height: 1.4em;
+  padding: 7px 32px;
+}
+
+.promo-img{
+  padding-top: 55px;
+}
+
+.promo-img img{
+  width: 5em;
+}
+
+.big1 img{
+  width: 7.4em;
+}
+
+.big2 img{
+  width: 6.5em;
+}
+
+
+.info-left{
+	width: 50%;
+	float: left;
+	
+}
+
+.info-right{
+	width: 50%;
+	float: left;
+}
+
+.first{
+	width: 100%;
+	display: block;
+	overflow: hidden;
+}
+
+.second{
+	width: 100%;
+	display: block;
+	overflow: hidden;
+}
+
+.footer{
+	margin-top: 2em;
+}
+
+.promt-text{
+	padding: 7px 51px;
+}
+
+.info{
+	padding: 0 143px;
+	overflow: hidden;
+}
+
+.form{
+	display: inline-block;
+    width: 30%;
+    float: left;
+    padding-left: 1.4em;
+}
+
+h5{
+	font-size: 1.5em;
+    margin-bottom: .5em;
+}
+
+.details{
+	width: 100%;
+	padding: 2em 1em 2em 1em;
+}
+
+.form{
+  display: inline;
+  text-align: left;
+}
+
+.details input{
+    width: 55%;
+    padding-left: .5em;
+    
+}
+
+.details button{
+	  width: 9em;
+    margin-top: .5em;
+    margin-left: .3em;
+}
+
+.company{
+	width: 23.3333333%;
+	display: inline-block;
+	float: left;	
+  border-left: 1px solid #666666;
+}
+
+
+.padding{ 
+	padding-bottom: 1em;
+}
+
+.padding2{
+	padding-bottom: 4em;
+}
+
+.padding3{ 
+	padding-bottom: 1.5em;
+}
+
+.padding-top{
+	padding-top: 1em;
+}
+
+
+.contact{
+	width: 23.3333333%;
+	display: inline-block;
+	float: left;
+  border-left: 1px solid #666666;
+}
+
+
+.footer p{
+    font-size: 1.5em;
+    line-height: 2em;
+    border-top: 0;
+}
+
+.detail li{
+    font-size: 1.5em;
+    line-height: .8em;
+}
+
+.social{
+	width: 23.3333333%;
+	display: inline-block;
+  border-left: 1px solid #666666;
+}
+
+.icons-3 img{
+  margin-top: -0.7em;
+}
+
+.links img{
+    width: 4em;
+    margin-bottom: 0em;
+}
+
+.links{
+	padding:0 1em 0 1em;
+}
+
+.link-a img{
+	margin:0 0.1em 0 0.1em;
+}
+
+.link-a {
+	display: block;
+	padding-top: 0.5em;
+}
+
+
+.space2 {
+  	width: 106px;
+    line-height: 1.6em;
+   
+}
+
+.space {
+    width: 106px;
+    line-height: 1.6em;
+}
+
+/*second screen*/
+
+.white-background{
+  font-size: .95em;
+}
+
+
+.hero2{
+  padding: 180px 0;
+}
+
+input[type="search"] {
+    width: 28em;
+    font-size: 1em;
+}
+
+.searchbar{
+  top: 215px; 
+}
+
+.date{
+  font-size: 0.98em;
+}
+
+.week{
+  font-size: 0.98em;
+}
+
+.cart1{
+  display: inline;
+}
+
+.cart1 img{
+  margin-top: -0.9em;
+}
+
+.this-week{
+  font-size: 1.1em;
+}
+
+.masonry {
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+}
+
+
+.food-details h4 {
+    font-size: 1em;
+  
+    line-height: 1.2em;
+   
+}
+
+.food-details h6 {
+  padding-top: 0.9em;
+  font-size: .9em;
+}
+
+.price-details {
+  width: 28%;
+  float: right;
+  padding: 0.6em 0.6em 0 0.6em;
+  text-align: right;
+}
+
+.price-details li {
+  font-size: 0.95em;
+}
+
+.price-details ul {
+  padding-bottom: 0px;
+}
+
+.stars-yellow {
+  font-size: 0.8em;
+  padding-top: 4px;
+}
+
+
+.card-cart {
+  font-size: 1.1em;
+}
+
+
+
+}
+
+@media only screen and (min-width: 960px) {
+
+.prompt
+{
+    width: 27.5em;
+    padding: 3em 0 3em 0;
+    margin-right: 6em;
+    margin-top: 3.8em;
+
+ }
+
+ .hero{
+    height: 720px;
+}
+
+
+.outline-white{
+    outline: 3px solid #ffffff;
+    outline-offset: -14px;
+}
+
+.comfort-line{
+	width: 18.5em;
+}
+
+h3{
+	font-size: 1.6em;
+}
+
+h2{
+	font-size: 2.8em;
+}
+
+.line1 {
+    margin-top: .7em;
+    font-size: 1.5em;
+}
+
+.line {
+    font-size: 1.5em;
+}
+
+input[type=text] {
+    padding: 15px 13px;
+    float: left;
+    margin-left: 4.5em;
+}
+
+input[type=submit] {
+    padding: 15px 55px;
+    margin-top: 0.64em;
+    margin-left: -3em;
+}
+
+.mobile-nav {
+    height: 83px;
+    padding: 0 1em 0 1em;
+   
+}
+
+.hamburger{
+	display: none;
+}
+
+.header-left {
+    display: none;
+}
+.top-logo{
+	display: inline;
+    width: 30%;
+    float: left;
+    height: 83px;
+}
+
+.logo img{
+    display: inline;
+    width: 4em;
+    margin-top: .5em;
+    float: left;
+}
+
+h1{
+  text-align: none;
+  float: left;
+  margin-top: 1.4em;
+  font-size: 1em;
+  padding-left: .6em;
+}
+
+
+
+nav{
+	width: 70%;
+    display: inline;
+    float: right;
+    height: 83px;
+    padding-top: 2.1em;
+    text-align: right;
+}
+nav a{
+	text-decoration: none;
+    font-size: 0.8em;
+    padding-left: 2em;
+    color: #454545;
+}
+
+nav a:hover{
+	color: #ef7467;
+}
+.info {
+    width: 100%;
+    padding: 0 17px;
+}
+
+.first{
+	width: 50%;
+	float: left;
+}
+
+.second{
+	width: 50%;
+	float: left;
+	padding-top: 1.2em;
+}
+
+.topic {
+    margin-top: 4em;
+    font-size: 1.6em;
+   }
+
+h4{
+    font-size: 1.1em;
+}
+
+.promo-text {
+    font-size: .95em;
+    line-height: 1.5em;
+}
+
+.promo-img img{
+  width: 6.3em;
+}
+
+.big1 img{
+  width: 8.7em;
+}
+
+.big2 img{
+  width: 7.8em;
+}
+
+.footer{
+	margin-top: 4em;
+}
+
+.h5{
+  font-size: 1.7em;
+}
+
+.footer p{
+    font-size: 1.7em;
+    line-height: 2em;
+}
+
+.detail li{
+    font-size: 1.7em;
+    line-height: .8em;
+}
+
+.links img {
+    width: 4.5em;
+}
+
+/*second screen*/
+
+.sub-header{
+    padding: .5em 1.15em;
+}
+
+.white-background{
+  font-size: 1em;
+}
+
+.sub-header {
+  padding-bottom: 2.5em;
+}
+
+.hero2{
+  padding: 230px 0;
+}
+
+input[type="search"] {
+    font-size: 1.3em;
+}
+
+.searchbar{
+  top: 315px; 
+}
+
+.date{
+  font-size: 1.1em;
+}
+
+.week{
+  font-size: 1.1em;
+}
+
+.lower-head {
+    padding-top: 1.2em;
+}
+
+
+.cart1 img {
+    margin-top: -1em;
+    width: 2 em;
+}
+
+.this-week{
+  font-size: 1.3em;
+  padding-bottom: 0.2em;
+}
+
+.top-right {
+    margin-top: -19px;
+}
+
+.masonry {
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+}
+
+.chef-image {
+    width: 7.8em;
+}
+
+.food-details h4 {
+    font-size: 1.2em;
+  
+    line-height: 1.2em;
+   
+}
+
+.food-details h6 {
+  padding-top: 0.2em;
+  font-size: 1em;
+}
+
+
+}
+
+
+@media only screen and (min-width: 1200px) {
+
+.hits-center{
+   width: 1200px;
+   text-align: center;
+   margin: 0 auto;
+   overflow: hidden;
+}
+
+.hits-center2{
+   width: 1200px;
+   margin: 0 auto;
+   overflow: hidden;
+}
+
+.mobile-nav {
+    padding: 0 1.5em 0 1.5em;
+}
+
+nav a{
+    font-size: 1.1em;
+}
+
+.prompt
+{
+    width: 30.5em;
+    padding: 2.5em 0 2.5em 0;
+    margin-top: 3em;
+
+ }
+
+.comfort-line{
+	width: 20.5em;
+}
+
+h3{
+	font-size: 2em;
+}
+
+h2{
+	font-size: 3.1em;
+}
+
+.line1 {
+    font-size: 1.75em;
+}
+
+.line {
+    font-size: 1.75em;
+}
+
+input[type=text] {
+    padding: 15px 30px;
+}
+
+input[type=submit] {
+    padding: 15px 70px;
+}
+
+.topic {
+    font-size: 1.85em;
+}
+
+.promo-text {
+    font-size: 1em;
+    line-height: 1.6em;
+}
+
+h4{
+    font-size: 1.3em;
+}
+
+.promo-img img{
+  width: 7.3em;
+}
+
+.big1 img{
+  width: 10.2em;
+}
+
+.big2 img{
+  width: 9em;
+}
+
+.h5{
+  font-size: 1.8em;
+}
+
+.footer p{
+    font-size: 1.8em;
+    line-height: 2.2em;
+}
+
+.detail li{
+    font-size: 1.8em;
+    line-height: .9em;
+}
+
+.links img {
+    width: 5em;
+
+}
+
+/*second screen*/
+
+.sub-header{
+    padding: .5em 1.7em;
+}
+
+.white-background{
+  font-size: 1.05em;
+}
+
+
+input[type="search"] {
+    font-size: 1.5em;
+}
+
+.searchbar{
+  top: 320px; 
+}
+
+.date{
+  font-size: 1.15em;
+}
+
+.week{
+  font-size: 1.15em;
+}
+
+
+.cart1 img {
+    margin-top: -1.7em;
+    width: 2.1em;
+}
+
+.this-week{
+  font-size: 1.4em;
+}
+
+
+.masonry {
+  -moz-column-count: 3;
+  -webkit-column-count:3;
+  column-count: 3;
+}
+
+.item {
+  display: inline-block;
+  margin: 0 0 6em;
+}
+
+.chef-image {
+    width: 5.8em;
+}
+
+.food-details h4 {
+    font-size: 1.1em;
+   
+}
+
+.food-details h6 {
+    padding-top: 0.7em;
+}
+
+}
+
+
+@media only screen and (min-width: 1400px) {
+  .prompt {
+    margin-right:1.7em;
+    float: right;
+
+  }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
